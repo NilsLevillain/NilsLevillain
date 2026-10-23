@@ -19,12 +19,12 @@
 
 ### What I build
 
-I own data products end-to-end — from **user discovery** to **global deployment** — that measurably change how people work.
+I own data products end-to-end, from **user discovery** to **global deployment**, that measurably change how people work.
 
 - 📊 **10+ analytics products** · **200+ users** · **NPS 50+** across L'Oréal's global Supply Chain
 - ✈ CO₂ calculator → **−50% air freight** across 7 geographic zones
 - 🏭 AI optimisation tool (ML + linear programming) → **€2M/year** projected ROI
-- 🧠 **GenBI / Talk with your Data** — from user interview to working AI prototype
+- 🧠 **GenBI / Talk with your Data** : from user need to tangible & trusted results
 
 ---
 
